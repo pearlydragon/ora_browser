@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>back.ico</file>
+        <file>refresh.ico</file>
+    </qresource>
+</RCC>
